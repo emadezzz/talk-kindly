@@ -78,6 +78,12 @@ data/
 
 ---
 
+## Project Poster
+
+The academic poster for this project is included in this repository.
+
+---
+
 ## Author
 
 Emad Ezzadeen  
